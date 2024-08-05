@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pallet-release-form-data-entry",
+  "private_key_id": "bce5f340773223211055ece9b16f59c565654ca1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfSqayzRwgykIx\nNfUUu3YMPZkZQK9S8cA78cOjEtQvt7vz8Sr/RUxi72z50toWTzF1d/BPYTCUfXE3\nbX6esxRONUANpX3C/TL9eGdiqmQ2dnIR/xeTeTZt7MfUk87QpuyjumyCO12Xk5dF\n0Q2x1KWlhcNrFkISx40jdtkfe0OYyXkxYRQ7hBAG3VjA2eBqS0RwQQvhlC0YEacm\nla8QwPYT1CKs4cjIB6t7ARGELuo8ZnPUV+6W2vSRfxr0i9H3UJ8TNijWn/XSTe4V\n6z29C4fO7Z6LXN5PqbqJKyTdsoeOHoOcmw8wlx/35qLrnn8eM3D6o1Z4NLI9EjYm\nrVWuSDkzAgMBAAECggEAASP4CHVfCy5wMs+SulyEhJzpcnHUou+foQb+9tTrl3iu\npAmIJPLEA45C/8tdM2j4ea+gAgp0XImuVl/pc13pT2meyuCgj/QddbnDPkVz1V9S\nFNYWP9EODutYSG+LUiRjhSENxdSy2v/YGD7/6aZUHfc+DC2ZZV+NxQrrzRO+FhXp\n8kJfGfOSGwyuKQoCxNVLKlJBsG5hpMgTb4BcxSkXsoTVsan8EezD2Q3vA/riDw6P\nBBQT0XsRaKJf/P8pujduCMy14J+fUhMWwdABhyFYxUkclRz96ia4WeBwwEoWyC25\nwH3A+abKoWzvvuYNakiME2CYyaj+n8u5V29c9zDIIQKBgQDxVWRlEof18dxE+WEN\nx61q0kxuYbjaenhddoQlf+vLt5FE3Wxzh6FvyaT665ralSPyrq8YOBFaL+WHQX6R\nhK4N9IDvv5zaAhqxJDmSE8oG2rjd08gNG6FCJfN8x3LnbqM+m9t7g6MglSbV7HkH\ncRCCGHHD6HVIuafU6K/S46/kUwKBgQDs3JETEw6q4+jxRylXVlvNmw96dGOgMiqc\n6zDznn6xegoWc1FiQJVb6pVDy31gzKS+myRhQiwrMj7YxAEZVv6oKmLaGJaT3sPi\ndtE3tNLB/zkVRaTJVIxp+tvSTzIAiK12FV6XzbcZR55Dbg2N8gR5MLp6h54Z5P47\n7NCU33u7oQKBgQDFit1z8lhCVKi1+N+d1P25u8x+ahVTGP6fmpyOyYgsp+UMVqco\nZjQZ+hfGoMaP95aGVsDSdUqW5S/fqBe/a7jBiYtlNBZjSWep6noJfZNYSv8Z7PoK\n6Lv2FnSZhfUjRafwXsmo79a+m/g/EaL8GWum4fV1pDkkv3uGxrTtThyzKwKBgD4t\nmJfdRNhvg9Lyz1NyBB9xORr4Or7u7GjNBMivLqsAUm2aUB7uvUanyg9F99/VWNoA\neAhgCqA8TGsy6ObyA1+54MFH+x9ONzXX4wwwl7L9gMqowZ1oaIPZqqMGzyV8u6xn\n57EJ+6rTNiSVW1GL2sjFle5cc5BwoJyyif7Ku/yBAoGAX1BQaqzE1J/xTVhl3Eo6\nCNZa9wNWv0erQ3flB1LnEt7JeUcWwtPU6bywioHgRHFFtlT3avLwwrJrak61AiNf\n0yyzWfezDQFrxiSON4at0UjbYg05G/5HL9rNg4iAyEDi9hU7xSkcKIvd9mN3opQR\n/bkzZAGK+B4q9VsB6iT9frI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "palletrelease-gsheets-python-a@pallet-release-form-data-entry.iam.gserviceaccount.com",
+  "client_id": "101570118777422319586",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/palletrelease-gsheets-python-a%40pallet-release-form-data-entry.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
